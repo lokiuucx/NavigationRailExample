@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ACsNujUGWn3zucUY1MnoFvPsRgyI21kNax+XpWfObD/5IL0mD5KI3DTt4Nhjaa97d3w3VNu/O0CJ9aWoPut9ng==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pedro\\OneDrive\\Desktop\\NavigationRailExample\\NavigationRailExample\\NavigationRailExample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pedro\\.nuget\\packages\\materialdesigncolors\\2.0.1\\materialdesigncolors.2.0.1.nupkg.sha512",
+    "C:\\Users\\pedro\\.nuget\\packages\\materialdesignthemes\\4.1.0\\materialdesignthemes.4.1.0.nupkg.sha512",
+    "C:\\Users\\pedro\\.nuget\\packages\\showmethexaml\\2.0.0\\showmethexaml.2.0.0.nupkg.sha512",
+    "C:\\Users\\pedro\\.nuget\\packages\\showmethexaml.msbuild\\2.0.0\\showmethexaml.msbuild.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
